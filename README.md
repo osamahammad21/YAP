@@ -14,7 +14,7 @@
 # Installation
 1. Clone the repository
 ```
-git clone -b yap+ https://github.com/nanocad-lab/YAP.git
+git clone -b yap+repair https://github.com/chen-zhichao/YAP.git
 cd ./YAP
 ```
 2. Install dependencies:
@@ -39,5 +39,6 @@ pip install -r requirements.txt
 
 # Paper Link
 To be continued...
+
 
 
